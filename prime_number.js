@@ -7,3 +7,4 @@ for(let i=1;i<=num;i++){
 }else{
     console.log("No")
 }
+//this is only for precties perpose 
